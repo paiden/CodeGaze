@@ -1,0 +1,2 @@
+# CodeGaze
+Visual studio extension
